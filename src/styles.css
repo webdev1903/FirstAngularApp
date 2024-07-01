@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --primary-color: #605dc8;
+  --secondary-color: #ffffff;
+  --font-size: 16px;
+  --padding: 10px;
+  /* Add more custom properties as needed */
+}
